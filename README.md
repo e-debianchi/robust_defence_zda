@@ -1,4 +1,4 @@
-# ⚡ Robust Defence Against Zero-Dynamics Attacks in Power Systems
+# Robust Defence Against Zero-Dynamics Attacks in Power Systems
 
 This repository contains the Simulink implementation of ideal and robust control strategies designed to compensate **zero-dynamics attacks (ZDAs)** in power systems, developed as part of a university project for the course **System and Control Methods for Cyber-Physical Security**.
 
