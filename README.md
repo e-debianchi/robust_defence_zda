@@ -33,6 +33,7 @@ The defense design is based on the work of Di Giorgio et al. (2018) which propos
 - `robust_defence_zda.m`: MATLAB values for the relative Simulink model
 - `figure_code.m`: MATLAB script to plot the simulation results
 - `README.md`: This file
+- `img` directory: simulations results
 
 ## 🧪 Case Study
 
