@@ -21,7 +21,7 @@ Zero-Dynamics Attacks (ZDAs) are stealthy cyber-physical threats that exploit th
 The defense design is based on the work of Di Giorgio et al. (2018) which proposes a robust scheme capable of rejecting attacks targeting unobservable system dynamics.
 
 > 📄 **Citation**  
-> Di Giorgio, A., Pietrabissa, A., Delli Priscoli, F., & Isidori, A. (2018).  
+> Di Giorgio, A., Pietrabissa, A., Delli Priscoli, F., Isidori, A. (2018).  
 > *Robust protection scheme against cyber-physical attacks in power systems*.  
 > [IET Control Theory & Applications, 12(13), 1792–1801.](https://doi.org/10.1049/iet-cta.2017.0725)  
 
